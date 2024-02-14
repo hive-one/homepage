@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <title>{{ page.title }}</title>
+    <link
+      rel="icon"
+      type="image/svg+xml"
+      href="/assets/images/logo/_dots.svg"
+    />
+    <link rel="icon" type="image/png" href="/assets/images/logo/_dots.png" />
+    <link rel="stylesheet" href="/css/style.css" />
+  </head>
+  <body>
+    {% if site.title and site.title != page.title %}
+    <h1>
+        <a href="{{ "/" | absolute_url }}">{{ site.title }}</a>
+    </h1>
+    {% endif %}
+    <h1>{{ page.title }}</h1>
+    <section>{{ content }}</section>
+  </body>
+</html>
