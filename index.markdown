@@ -2,14 +2,14 @@
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
-layout: home
+layout: default
 title: We are the Borg
 ---
 Borg’s mission is to advance humanity toward perfect information.      
 We create cybernetics systems utilizing AI and social graph analysis.      
 
 
-### Products      
+## Our Products      
 #### Free      
 hive.one (explore Twitter/X communities)      
 Venture Map (explore venture capital industry)      
@@ -19,8 +19,7 @@ Data-driven as a Service (algorithmic deal-sourcing for investment funds)
 Perfect Network (networking co-pilot for VC investment teams)      
 
 
-### We Are
-
+## We Are
 Maciek - ceo      
 Danish - cto      
 Deklan - data science      

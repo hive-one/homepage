@@ -3,7 +3,9 @@
   <div class="wrapper">
     {%- assign default_paths = site.pages | map: "path" -%}
     {%- assign page_paths = site.header_pages | default: default_paths -%}
-    <a class="site-title" rel="author" href="{{ "/" | relative_url }}">{{ site.title | escape }}</a>
+    <a class="site-title" rel="author" href="{{ "/" | relative_url }}">
+      <img alt="Borg.id logo" loading="lazy" width="88" height="30" decoding="async" data-nimg="1"  src="{{ "/assets/img/logo.svg" | relative_url }}" style="color: transparent;">
+    </a>
 
     {%- if page_paths -%}
       <nav class="site-nav">
