@@ -7,7 +7,7 @@
       <img alt="Borg.id logo" loading="lazy" width="88" height="30" decoding="async" data-nimg="1"  src="{{ "/assets/img/logo.svg" | relative_url }}" style="color: transparent;">
     </a>
 
-    {%- if page_paths -%}
+    {% comment %} {%- if page_paths -%}
       <nav class="site-nav">
         <input type="checkbox" id="nav-trigger" class="nav-trigger" />
         <label for="nav-trigger">
@@ -27,6 +27,6 @@
           {%- endfor -%}
         </div>
       </nav>
-    {%- endif -%}
+    {%- endif -%} {% endcomment %}
   </div>
 </header>
