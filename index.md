@@ -1,25 +1,24 @@
-#We are the Borg
+# We are the Borg
+Borg’s mission is to advance humanity toward perfect information.
 
-Borg’s mission is to advance humanity toward perfect information. 
+We create cybernetics systems utilizing AI and social graph analysis.
 
-We create cybernetics systems utilizing AI and social graph analysis. 
-
-###Products
+### Products
 Free
-hive.one (explore Twitter/X communities) 
-Venture Map (explore venture capital industry) 
+hive.one (explore Twitter/X communities)
+Venture Map (explore venture capital industry)
 
-###Commercial 
+### Commercial
 Fundraising (fundraising co-pilot for pre-seed – Series A startups)
-Data-driven as a Service (algorithmic deal-sourcing for investment funds) 
-Perfect Network (networking co-pilot for VC investment teams) 
+Data-driven as a Service (algorithmic deal-sourcing for investment funds)
+Perfect Network (networking co-pilot for VC investment teams)
 
-###Team
-Maciek - ceo 
+### Team
+Maciek - ceo
 Danish - cto
 Deklan - data science
 Thomas - data science
 Jean-Gabriel - data science
 Rishi - engineering
-Valery - ux/ui 
-Dirk - ops 
+Valery - ux/ui
+Dirk - ops
