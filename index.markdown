@@ -12,8 +12,10 @@ In this world, the obstacle of locating the right expertise is drastically reduc
 
 
 ## We are hiring
-#### <a href="https://apply.workable.com/borg/j/5B225329B3">Data Scientist (Remote)</a>
-#### <a href="https://apply.workable.com/borg/j/B6310B7DB4">Backend Engineer (Remote)</a>
+
+<a href="https://apply.workable.com/borg/j/5B225329B3">Data Scientist (Remote)</a>
+
+<a href="https://apply.workable.com/borg/j/B6310B7DB4">Backend Engineer (Remote)</a>
 
 ## We Are
 Maciek - ceo      
@@ -24,3 +26,6 @@ Jean-Gabriel - data science
 Rishi - engineering      
 Valery - ux/ui      
 Dirk - ops      
+
+
+<a href="https://graph.one/impressum" style="font-size: 8px">impressum</a>
