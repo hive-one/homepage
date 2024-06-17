@@ -11,15 +11,9 @@ This vision extends beyond individual benefits; it has the power to revolutioniz
 In this world, the obstacle of locating the right expertise is drastically reduced. Borg is dedicated to making this vision a reality.     
 
 
-## Our Products      
-#### Free      
-hive.one (explore Twitter/X communities)      
-Venture Map (explore venture capital industry)      
-#### Commercial      
-Fundraising (fundraising co-pilot for pre-seed – Series A startups)      
-Data-driven as a Service (algorithmic deal-sourcing for investment funds)      
-Perfect Network (networking co-pilot for VC investment teams)      
-
+## We are hiring
+#### <a href="https://apply.workable.com/borg/j/5B225329B3">Data Scientist (Remote)</a>
+#### <a href="https://apply.workable.com/borg/j/B6310B7DB4">Backend Engineer (Remote)</a>
 
 ## We Are
 Maciek - ceo      
