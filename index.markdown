@@ -13,16 +13,15 @@ In this world, the obstacle of locating the right expertise is drastically reduc
 
 ## We are hiring
 
-<a href="https://apply.workable.com/borg/j/5B225329B3">Data Scientist (Remote)</a>
+<a href="https://apply.workable.com/borg/j/9907AA314A">Senior Frontend Engineer (Remote)</a>
 
-<a href="https://apply.workable.com/borg/j/B6310B7DB4">Backend Engineer (Remote)</a>
+<a href="https://apply.workable.com/borg/j/E222205988">Senior Full-Stack Developer (Remote)</a>
 
 ## We Are
 Maciek - ceo      
 Danish - cto      
 Deklan - data science      
-Thomas - data science      
-Jean-Gabriel - data science      
+Thomas - data science            
 Rishi - engineering      
 Valery - ux/ui      
 Dirk - ops      
