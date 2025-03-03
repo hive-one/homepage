@@ -11,11 +11,11 @@ This vision extends beyond individual benefits; it has the power to revolutioniz
 In this world, the obstacle of locating the right expertise is drastically reduced. Borg is dedicated to making this vision a reality.     
 
 
-## We are hiring
+<!--## We are hiring
 
 <a href="https://apply.workable.com/borg/j/9907AA314A">Senior Frontend Engineer (Remote)</a>
 
-<a href="https://apply.workable.com/borg/j/E222205988">Senior Full-Stack Developer (Remote)</a>
+<a href="https://apply.workable.com/borg/j/E222205988">Senior Full-Stack Developer (Remote)</a>-->
 
 ## We Are
 Maciek - ceo      
