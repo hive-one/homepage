@@ -22,7 +22,7 @@ Maciek - ceo
 Danish - cto      
 Deklan - data science      
 Thomas - data science            
-Rishi - engineering      
+Keyur - engineering      
 Valery - ux/ui      
 Dirk - ops      
 
