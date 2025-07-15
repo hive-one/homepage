@@ -13,8 +13,8 @@ In this world, the obstacle of locating the right expertise is drastically reduc
 
 ## We are hiring
 
+<a href="https://apply.workable.com/borg/j/1FBDA973D1">GTM Engineer (Growth Hacker / Automation Specialist) (Remote)</a></br>
 <a href="https://apply.workable.com/borg/j/E222205988">Senior Full-Stack Developer (Remote)</a>
-
 
 ## We Are
 Maciek - ceo      
